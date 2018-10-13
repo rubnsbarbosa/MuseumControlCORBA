@@ -11,7 +11,7 @@ Prof. Cidcley T. de Souza (cidcley@gmail.com)
 
 * Registrar o número de visitantes presentes em um museu em um determinado momento;  
 * Apresentar de forma atualizada esse número para um guarda durante dia e noite;  
-* Tocarumsinoparaacordaroguardacasoonúmerodevisitantessejadiferente de zero durante o período da noite.  
+* Tocar um sino para acordar o guarda caso o número de visitantes seja diferente de zero durante o período da noite.  
 
 
 2) Esse sistema deve ser composto pelos seguintes módulos:  
@@ -37,7 +37,7 @@ Depois disso o trabalho será desconsiderado.
 4. Devem ser entregues **TODOS** os códigos.  
 5. Deverá ser entregue, se a linguagem de programação permitir, um código executável (.jar, .exe, etc).  
 
-### Comandos via terminal
+### Comandos Via Terminal
 > **Terminal 1**  
 > rubnsbarbosa$ tnameserv -ORBInitialPort 9999  
 > **Terminal 2**  
@@ -46,4 +46,5 @@ Depois disso o trabalho será desconsiderado.
 > rubnsbarbosa$ java MuseumGuardServer  
 > **Terminal 4**  
 > rubnsbarbosa$ java MuseumBellServer  
+> **Exec. Client**  
 > Depois que temos o Servidor de Nomes habilitado e os Servirores executando, agora só falta executar o cliente.  
