@@ -1,0 +1,7 @@
+module MuseumBell {
+    
+    interface Bell {
+        boolean ringBell(in boolean day, in unsigned long visitor);
+    };
+
+};

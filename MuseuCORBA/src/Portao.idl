@@ -1,0 +1,10 @@
+module MuseumGate {
+    
+    interface Gate {
+        void insertPerson(in unsigned long person);
+        void removePerson(in unsigned long person);
+        unsigned long updatePeople();
+    };
+
+};
+

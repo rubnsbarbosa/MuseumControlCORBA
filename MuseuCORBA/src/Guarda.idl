@@ -1,0 +1,8 @@
+module MuseumGuard {
+    
+    interface Guard {
+        boolean changeDayPeriod(in boolean day);
+        unsigned long getAmountVisitor(in unsigned long visitor);
+    };
+
+};
