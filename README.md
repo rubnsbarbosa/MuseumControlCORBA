@@ -47,4 +47,4 @@ Depois disso o trabalho será desconsiderado.
 > **Terminal 4**  
 > rubnsbarbosa$ java MuseumBellServer  
 > **Exec. Client**  
-> Depois que temos o Servidor de Nomes habilitado e os Servirores executando, agora só falta executar o cliente.  
+> Depois que temos o Servidor de Nomes habilitado e os Servidores executando, agora só falta executar o cliente.  
