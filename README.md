@@ -2,7 +2,7 @@
 Engenharia de Computação  
 Programação Paralela e Distribuída  
 2018.2  
-Prof. Cidcley T. de Souza (cidcley@gmail.com)  
+Prof. Cidcley T. de Souza   
 
 ### Projeto de CORBA
 **Objetivo:** Implementar utilizando SOMENTE CORBA um Sistema de Controle de Museu.  
